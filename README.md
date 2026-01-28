@@ -4,7 +4,7 @@ This project demonstrates a comprehensive **end-to-end CI/CD infrastructure** fo
 It leverages **Terraform** for AWS infrastructure provisioning, **GitHub Actions** for continuous integration, and **ArgoCD** for GitOps-based continuous deployment on a Kubernetes cluster.
 
 ---
-[Project overview](https://github.com/I-am-nk/ultimate-devops-project-demo/blob/main/Project%20Overview.md)
+[Project overview](https://github.com/jahnvichaudhary/Devops-project/blob/main/Project%20Overview.md)
 
 ---
 
@@ -113,9 +113,7 @@ Defines the pipeline with:
 - Code quality checks  
 - Kubernetes manifest updates
 
-📄 [Github Actions README →](https://github.com/I-am-nk/ultimate-devops-project-demo/blob/main/GitHub%20Actions%20Readme.md))
 
----
 
 ## 👨‍💻 Author
 **Nandkishor Khandare**  
