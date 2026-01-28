@@ -22,7 +22,7 @@ It leverages **Terraform** for AWS infrastructure provisioning, **GitHub Actions
 - **Amazon VPC (Virtual Private Cloud)**:  
   Provides secure VPC with public/private subnets, route tables, and isolated networking for security.  
 - **Amazon Route53**:  
-  Used for DNS and routing traffic to our domain (e.g., [https://iamnkdevopseng.shop](https://iamnkdevopseng.shop)).  
+  Used for DNS and routing traffic to our domain
 ---
 ### 2. 💻 Kubernetes Environment
 - **EKS Cluster**: Managed Kubernetes service for deploying and managing workloads.  
@@ -80,14 +80,14 @@ Automates provisioning of:
 - EKS Cluster  
 - S3 bucket & DynamoDB for state management
 
-📄 [Terraform README](https://github.com/I-am-nk/ultimate-devops-project-terraform/blob/main/README.md)
+📄 [Terraform README](https://github.com/jahnvichaudhary/Devops-project-terraform/blob/main/README.md)
 
 ---
 ### 🐳 Docker Compose
 - Runs the project locally with a single `docker-compose.yml` file.  
 - Helps test the application before deploying.
 
-📄 [Docker Compose README](https://github.com/I-am-nk/ultimate-devops-project-demo/blob/main/local-setup-readme.md)
+📄 [Docker Compose README](https://github.com/jahnvichaudhary/Devops-project/blob/main/local-setup-readme.md)
 
 ---
 ### ☸️ Kubernetes (Container Orchestration)
@@ -112,12 +112,12 @@ Defines the pipeline with:
 - Build & push Docker images  
 - Code quality checks  
 - Kubernetes manifest updates
-
+[Github Actions README →](https://github.com/jahnvichaudhary/Devops-project/blob/main/GitHub%20Actions%20Readme.md))
 
 
 ## 👨‍💻 Author
-**Nandkishor Khandare**  
-Cloud & DevOps / SRE Engineer  
+Jahnvi Chaudhary
+ 
 
 ## 📬 **Contact**: 
-[LinkedIn](https://www.linkedin.com/in/nandkishor-khandare-616492215/) | [Email](nandkishor.k6e@gmail.com)
+[LinkedIn](www.linkedin.com/in/jahnvi-chaudhary-756152212) | [Email](chaudharyjahnvi@gmail.com)
